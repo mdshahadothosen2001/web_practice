@@ -1,0 +1,30 @@
+#start{
+    height: 75rem;
+    background-color: red;
+    color: wheat;
+    border:0.0625rem solid wheat;
+    margin-right: 0.625rem;
+    
+}
+
+#img{
+    margin-top: 1.875rem;
+    margin-left: 1.875rem;
+
+}
+h4{
+    padding-left: 5rem;
+    padding-top:1.25rem;
+    color: yellowgreen;
+}
+
+img:hover{
+   
+    border: 0.0625rem solid black;
+}
+img:active{
+    outline: 0.625rem solid rgb(227, 227, 238);
+}
+img:visited{
+    border: 5px solid yellow;
+}

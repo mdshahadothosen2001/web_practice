@@ -1,0 +1,114 @@
+#name{
+    
+    color:red;
+   
+    width: 22rem;
+    margin-left: 4%;
+    font-weight: bold;
+    font-size: 5rem;
+    margin-top: 14rem;
+    padding-top: 2rem;
+    padding-left:15% ;
+    padding-bottom: 2rem;
+    font-family: "Courier New",monospace;
+
+}
+
+#subName{
+    background-color: red;
+    color: aliceblue;
+    padding-top: 4rem;
+    padding-left: 20%;
+    padding-bottom: 4rem;
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: serif;
+}
+#kg{
+    color: rgb(88, 223, 223);
+    font-size: 14rem;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.div{
+    background-color: rgb(231, 231, 233);
+    width: 90%;
+    margin-left: 5%;
+    height: 70rem;
+    
+}
+p{
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+
+.help{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 0.79rem;
+    
+}
+#appImgBox{
+    margin-left: 25%;
+}
+#appImg{
+    margin-left: 2rem;
+    width: 9rem;
+    height: 3rem;
+}
+#helpTitle{
+    margin-top: 4rem;
+    margin-left: 33%;
+    font-size: 1.349rem;
+}
+#contactUs{
+    width: 20rem;
+    color: rgb(251, 251, 250);
+    background-color: red;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 8rem;
+    margin-left: 15%;
+}
+
+.app{
+    background-color: rgb(231, 231, 233);
+    width: 90%;
+    margin-left: 5%;
+    height: 28rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+#save{
+    font-size: 2.5rem;
+    padding-left: 30%;
+    padding-top: 4rem;
+   
+}   
+#appDetails{
+    padding-left: 12rem;
+    padding-right: 12rem;
+    margin-bottom: 4rem;
+}
+
+#appStore{
+    margin-top: 2rem;
+    padding: 3rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
+    background-color: black;
+    color: aliceblue;
+}
+.bogura{
+    color: rgb(77, 79, 79);
+    
+    margin-top: 10rem;
+    margin-left: 15%;
+    margin-bottom: 4rem;
+    
+    margin-bottom: 15rem;
+    opacity: 0.5;
+}

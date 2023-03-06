@@ -1,0 +1,336 @@
+#coll{
+    height: 81rem;
+    background-color: rgb(253, 253, 251);
+    margin-right: 0.625rem;
+    margin-left: 0.75rem;
+    margin-top: 1rem;
+    margin-bottom:0.625rem;
+    border: 0.1875rem solid rgb(199, 198, 197);
+}
+.p{
+    font-weight: bold;
+    color: rgb(116, 113, 113);
+    padding-top: 1rem;
+    font-size: 1.35rem;
+}
+.h{
+    color: rgb(143, 140, 140) ;
+    font-size: 1.8rem;
+    padding-top: 1.5rem;
+    
+}
+img{
+    width: 12.5rem;
+    height: 12.5rem;
+}
+.hold{
+    width: 11.25rem;
+    height: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(218, 217, 214);
+}
+
+.skll{
+    width: 11.25rem;
+    height: 0.625rem;
+    border-radius: 1rem;
+    background-color: rgb(218, 217, 214);
+}
+.bangla{
+    width: 10.125rem;
+    height: 1rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.7rem;
+    border-radius: 1rem;
+}
+.english{
+    width: 7.875rem;
+    height: 1rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.7rem;
+    border-radius: 1rem;
+
+}
+.html{
+    width: 10.125rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+.css{
+    width: 9rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+.bootstrap{
+    width: 6.75rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+.js{
+    width: 4.5rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+.react{
+    width: 0.5625rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+
+.c{
+    width: 10.125rem;
+    height: 0.625rem;
+    background-color: rgb(143, 140, 140);
+    color: white;
+    text-align: center;
+    font-size: 0.625rem;
+    border-radius: 1rem;
+}
+#icn{
+    width: 1.5625rem;
+    height: 1.5625rem;
+    color:rgb(143, 140, 140) ;
+    margin-right: 0.625rem;
+    margin-left: 0.1875rem;
+    margin-bottom: 0.625rem;
+   
+}
+.cal{
+    margin-bottom: 3.125rem;
+}
+
+#ski{
+    width: 2.1875rem;
+    height: 2.1875rem;
+    color: rgb(143, 140, 140);
+   
+    margin-left: 0.3125rem;
+    margin-right: 1.25rem;
+    margin-bottom: 0.3125rem;
+    
+    
+}
+.skl{
+    font-size: 1.5625rem;
+    font-weight: bolder;
+    color: rgb(143, 140, 140);
+    
+}
+
+.langu{
+    font-size: 1.5625rem;
+    font-weight: bolder;
+    color: rgb(143, 140, 140);
+    margin-bottom: 0.625rem;
+    margin-top: 1.25rem;
+
+}
+
+#lang{
+    width: 2.1875rem;
+    height: 2.1875rem;
+    color:rgb(143, 140, 140) ;
+    margin-right: 0.625rem;
+}
+
+
+
+#expr{
+   
+    height: 40rem;
+    background-color: rgb(245, 243, 239);
+    margin-bottom: 0.625rem;
+    margin-top: 1rem;
+    margin-right: 0.1875rem;
+    margin-left: 0.03125rem;
+    border:0.1875 solid rgb(206, 205, 205);
+}
+
+
+#work{
+    width: 3rem;
+    height: 2rem;
+    color: rgb(80, 77, 77);
+    margin-top: 0.68rem;
+    margin-left: 0.9rem;
+}
+#calendar{
+    width: 2rem;
+    height: 1.5rem;
+    color: rgb(143, 140, 140);
+    margin-left: 0.3rem;
+    margin-right: 0.5rem;
+}
+
+.button{
+    background-color: darkcyan;
+    color: white;
+    margin-left: 0.8rem;
+    border-radius: 0.4rem ;
+    text-decoration: none;
+    padding: 0.3rem;
+}
+.font{
+    color: rgb(143, 140, 140);
+    margin-left: 0.9rem;
+    padding-left: 17rem;
+}
+h4{
+    padding-left: 0.6rem;
+    color:rgb(143, 140, 140) ;
+    font-size: 0.025rem;
+    
+}
+.juni{
+    margin-left: 1rem;
+}
+.first{
+    color: black;
+    vertical-align: baseline;
+    margin-left: 0.8rem;
+}
+.second{
+    margin-left: 0.4rem;
+    color: black;
+   margin-right: 0.3rem;
+}
+.f{
+    font-size: 1.3rem;
+}
+.first,.second{
+    font-size: 0.9rem;
+   margin-right: 2rem;
+}
+#eduicon{
+   
+    color: cadetblue;
+    margin-top: 1rem;
+    margin-left: 0.8rem;
+    font-size: 3rem;
+}
+.edti{
+    margin-left: 1rem;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(143, 140, 140);
+    
+}
+.eddiv{
+    margin-top: 1.5rem;
+}
+#suitcase{
+    font-size:3rem;
+}
+#calendar{
+    color: rgb(143, 140, 140);
+    font-size: x-large;
+    margin-left: 1rem;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(51, 53, 53);
+    margin-top: 1.5rem;
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+}
+#fti{
+    font-size: small;
+    padding: 0.5rem;
+}
+
+@media all and (max-width:950px){
+    img{width: 25rem;
+    height: 18.75rem;}
+    #coll{width: 28.125rem;
+   }
+    #expr{width: 28.125rem;}
+
+    .hold{
+        width: 21.875rem;
+        height: 1rem;
+        border-radius: 1rem;
+        background-color: rgb(218, 217, 214);
+    }
+    .skll{
+        width: 21.875rem;
+        height: 0.625rem;
+        border-radius: 1rem;
+        background-color: rgb(218, 217, 214);
+    }
+    
+    .html{
+
+        width: 19.6875rem;
+    }
+    .css{
+        width: 17.5rem;
+
+        
+    }
+    .bootstrap{
+        width: 13.125rem;
+    }
+    .js{
+        width: 8.75rem;
+    }
+    .react{
+        width: 1.09375;
+    }
+    .c{
+        width: 19.6875rem;
+    }
+
+    .bangla{
+        width: 19.6875rem;
+    }
+    .english{
+        width: 15.3125rem;
+    }
+  .f{
+      font-size: 1.2rem;
+  }
+
+  .first,.second{
+    font-size: 0.8rem;
+   margin-right: 2rem;
+}
+}
+@media all and (max-width:1200px){
+    .p{font-size: 0.8125rem;
+       
+    }
+}
+
+@media all and (max-width:310px){
+    .p{font-size: 0.8125rem;
+       
+    }
+}
+
+
