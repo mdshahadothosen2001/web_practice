@@ -1,0 +1,232 @@
+
+#head{
+    
+    background-color: darkblue;
+    color: white;
+   
+   
+  
+
+}
+#profile{
+    padding-top: 0rem;
+    
+}
+.logo{
+    padding-bottom: 0.6rem;
+   padding-left: 0.48rem;
+}
+.menu{
+    margin-left: 0.68rem;
+    width: 0.534rem;
+    height: 0.06rem;
+    background-color: rgb(133, 211, 25);
+    margin-bottom: 0.1rem;
+}
+.title{
+    font-size: 0.66rem;
+    padding-left: 0.0001rem;
+    padding-top: 0.3rem;
+    color: floralwhite;
+}
+.subtitle{
+    font-size: 0.5rem;
+    color: darkgrey;
+}
+#button{
+   padding-left: 5px;
+    font-size: 40%;
+    width: 2.5rem;
+    height: 1rem;
+    background-color: #0B5ED7;
+}
+.intr{
+   font-size: 50%;
+   width: 14rem;
+   height: 11.5rem;
+   margin-top: 1rem;
+   padding-top: 0.5rem;
+   padding-left: 0.225rem;
+}
+h6{
+    font-size: 0.8rem;
+    font-family: Bodoni MT condenset;
+    font-weight: bold;
+    text-align: center;
+    color: darkcyan;
+    
+}
+.photos{
+    font-size:large;
+    border: 0.062rem solid rgb(211, 214, 208) ;
+    width:7.1rem;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.375rem;
+    float: left;
+}
+.photos:hover{
+    border: 0.125rem solid rgb(243, 240, 230);
+}
+.photos img{
+    width: 2rem;
+    height: auto;
+    
+}
+
+#laptop{
+    width: 6rem;
+    height: 2rem;
+    background-color: red;
+    color: white;
+    clear: both;
+    font-size:1rem;
+    margin-bottom: 1rem;
+}
+
+#cl{
+    height: 8rem;
+    background-color: black;
+    border: 1px solid blue;
+    margin-right: 1rem;
+    font-size: 30%;
+    color: white;
+    clear: both;
+}
+
+
+h4{
+    font-size: large;
+}
+
+.story{
+    clear: both;
+   
+    margin-left: 10rem;
+}
+
+#car{
+    width: 17rem;
+    height: 10rem;
+    margin-top: 1rem;
+}
+.subName{
+    padding: 0.88rem;
+    font-size: 40%;
+    color: rgb(107, 109, 107);
+}
+
+.footer{
+    font-size: 50%;
+    background-attachment: fixed;
+    background-color: black;
+    clear: both;
+
+}
+#col1{
+    padding-top: 2.5rem;
+    
+    height: 9rem;
+    color: white;
+}
+.share{
+   padding: 0.3rem;
+}
+.thank{
+    width: 3.1rem;
+    height: auto;
+    background-color: #ffe6e6;
+    color: dimgrey;
+    text-align: center;
+    
+}
+#thank{
+    font-size: xx-small;
+}
+
+@media all and (max-width:350px){
+   h5{
+       font-size: 0.7rem;
+   }
+   h4{
+       font-size: xx-small;
+   }
+   #cl{
+       font-size: 20%;
+   }
+   .title{
+       font-size:40%;
+   }
+   .subtitle{
+       font-size:35%;
+   }
+   .logo{
+     padding-left: 0.250rem;
+   }
+   .intr{
+       font-size:40%;
+       width: 6rem;
+       height: 10rem;
+   }
+   .photos{
+    font-size:large;
+    border: 0.062rem solid rgb(211, 214, 208) ;
+    width:7.1rem;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.375rem;
+    float: left;
+}
+.photos:hover{
+    border: 0.125rem solid rgb(243, 240, 230);
+}
+.photos img{
+    width: 2rem;
+    height: auto;
+    
+}
+   h6{
+       font-size:0.45rem;
+   }
+   .button{
+       margin-left: 2rem;
+   }
+   #laptop{
+       font-size: 0.567rem;
+       width: 4rem;
+       height: 1rem;
+   }
+   
+   #car{
+       width: 8rem;
+       height: auto;
+       float: right;
+   }
+
+   .footer{
+    font-size: 25%;
+    background-color: black;
+
+}
+#col1{
+   
+    height: 6rem;
+    color: white;
+    padding-top: 1.25rem;
+}
+.share{
+    
+   padding: 0.2rem;
+}
+#lastShare{
+    color: tomato;
+}
+#thank{
+    font-size: 0.333rem;
+    width: 2.4rem;
+    background-color: rgb(243, 227, 227);
+    color: black;
+}
+}
